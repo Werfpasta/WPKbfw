@@ -1,2 +1,2 @@
 # WPKbfw
-Firmware for the keyboard being designed by Honora and LOT.
+Firmware and design files for the keyboard being designed by Honora and LOT.
